@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendly//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20240625T201742Z
+UID:calendly-1016068558
+DTSTART:20240626T210000Z
+DTEND:20240626T220000Z
+CLASS:PRIVATE
+DESCRIPTION:Event Name: Data Analyst Interview\nDate & Time: 05:00pm - 06:0
+ 0pm (Eastern Time - US & Canada) on Wednesday\, June 26\, 2024\n\nNeed to 
+ make changes to this event?\nCancel: https://calendly.com/cancellations/94
+ 630dce-c6c5-4cff-9fb5-0884cea0dc00\nReschedule: https://calendly.com/resch
+ edulings/94630dce-c6c5-4cff-9fb5-0884cea0dc00\n
+SUMMARY:Data Analyst Interview with Rachel Williams
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
